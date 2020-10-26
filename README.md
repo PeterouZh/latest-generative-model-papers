@@ -1,5 +1,3 @@
-# latest-generative-model-papers
-
 ## A collection of interesting papers (mainly related to generative models) appearing on arXiv.
 
 ## Table of Contents
@@ -16,3 +14,5 @@
 
 
 ## Library
+
+- [python_video_stab](https://github.com/AdamSpannbauer/python_video_stab)
