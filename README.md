@@ -1,6 +1,6 @@
 # latest-generative-model-papers
 
-## A collection of interesting paper (mainly related to generative models) appearing on arXiv.
+## A collection of interesting papers (mainly related to generative models) appearing on arXiv.
 
 ## Table of Contents
 
