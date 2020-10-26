@@ -4,12 +4,10 @@
 
 ## Table of Contents
 
-- [Library](#library)
-<!-- - [Miscellaneous](#miscellaneous) -->
-- [Supervised](#supervised)
 - [2020](#2020)
   - [2020.10](#20210)
-
+- [Library](#library)
+<!-- - [Miscellaneous](#miscellaneous) -->
 
 ## 2020.10
 |  Title  |   Venue  |Code|Year|
